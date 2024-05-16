@@ -1,4 +1,4 @@
-# Template Website Hotel with HTML, CSS, JAVASCRIPT
+# Website Hotel with HTML, CSS, JAVASCRIPT
 
 ## Screenshots
 
